@@ -20,7 +20,7 @@
   "dependencies": {
     "@microsoft/microsoft-graph-client": "^3.0.2",
     "@microsoft/teamsfx": "^2.0.0",
-    "botbuilder": ">=4.15.0 <5.0.0",
+    "botbuilder": "^4.15.0",
     "isomorphic-fetch": "^3.0.0",
     "restify": "^10.0.0"
   },
